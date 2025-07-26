@@ -14,7 +14,7 @@ const wind = document.querySelector("#wind");
 const weatherIcon = document.querySelector("#weatherIcon");
 const cityList = document.querySelector("#cityList");
 const showCity = document.querySelector(".city");
-
+const apiKey = "24546d6a5873cda66241977fa18444c6";
 
 window.addEventListener("DOMContentLoaded", Events);
 
